@@ -1,2 +1,2 @@
-# RCNN-data1
-Only images (no ipynb code)
+# RCNN
+Step-By-Step Implementation of R-CNN from scratch in python
